@@ -5,5 +5,7 @@ public class Main {
         for (Romersksiffra r : Romersksiffra.values()){
             System.out.println(r + " = " + r.värde);
         }
+
+        System.out.println("testing");
     }
 }
